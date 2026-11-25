@@ -1,8 +1,0 @@
-*.zip
-accs.txt
-token_cache.json
-udp_logs*.txt
-.env
-.env.*
-__pycache__/
-*.pyc
